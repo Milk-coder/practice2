@@ -65,7 +65,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="lingxing.c" />
+    <ClCompile Include="sum.c" />
+    <ClCompile Include="水仙花数.c" />
+    <ClCompile Include="菱形.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

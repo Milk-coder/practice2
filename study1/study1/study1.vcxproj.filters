@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lingxing.c">
+    <ClCompile Include="菱形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="水仙花数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sum.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
